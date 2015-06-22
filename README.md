@@ -1,4 +1,4 @@
-NRStation v 0.1
+NR-STATION
 
 First implementation of a Web Radio Managment Application.
 
