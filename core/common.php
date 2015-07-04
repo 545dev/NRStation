@@ -1,8 +1,8 @@
 <?php 
 
     // variabili per la connessione al db
-    $username = "root"; 
-    $password = "marelli2010"; 
+    $username = ""; 
+    $password = ""; 
     $host = "localhost"; 
     $dbname = "login"; 
 
